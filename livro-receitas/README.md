@@ -1,5 +1,4 @@
-# Livro Genial de Receitas
-Este livro está sendo criado para que eu possa aprimorar minhas habilidades e não estou falando de culinária.
-- Pavê
-- Cachorro quente
-- açai
+# Objetivo
+Aprender angular e .net
+
+Este repositório está servindo para armazenar os conhecimentos que estou adiquirindo durante o curso da DIO.
